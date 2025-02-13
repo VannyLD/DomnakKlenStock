@@ -4,5 +4,11 @@
     "quantity": "3",
     "price": "30",
     "image": "https://raw.githubusercontent.com/VannyLD/DomnakKlenStock/main/images/ventana.jpg"
+  },
+  {
+    "name": "9PM",
+    "quantity": "1",
+    "price": "35",
+    "image": "https://raw.githubusercontent.com/VannyLD/DomnakKlenStock/main/images/IMG_0223.jpeg"
   }
 ]
