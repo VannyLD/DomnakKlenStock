@@ -4,5 +4,11 @@
     "quantity": "10",
     "price": "10",
     "image": "https://raw.githubusercontent.com/VannyLD/DomnakKlenStock/main/images/F1.png"
+  },
+  {
+    "name": "Test 02",
+    "quantity": "7",
+    "price": "7777",
+    "image": "https://raw.githubusercontent.com/VannyLD/DomnakKlenStock/main/images/Max%20Care.png"
   }
 ]
