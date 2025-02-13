@@ -10,5 +10,11 @@
     "quantity": "1",
     "price": "35",
     "image": "https://raw.githubusercontent.com/VannyLD/DomnakKlenStock/main/images/IMG_0223.jpeg"
+  },
+  {
+    "name": "Ventana Marin",
+    "quantity": "1",
+    "price": "30",
+    "image": "https://raw.githubusercontent.com/VannyLD/DomnakKlenStock/main/images/IMG_8039.jpeg"
   }
 ]
