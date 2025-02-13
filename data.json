@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "name": "Ventana",
+    "quantity": "3",
+    "price": "30",
+    "image": "https://raw.githubusercontent.com/VannyLD/DomnakKlenStock/main/images/ventana.jpg"
+  }
+]
