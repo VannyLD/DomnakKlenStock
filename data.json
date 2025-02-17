@@ -16,5 +16,11 @@
     "quantity": "0",
     "price": "35",
     "image": "https://raw.githubusercontent.com/VannyLD/DomnakKlenStock/main/images/IMG_0275.jpeg"
+  },
+  {
+    "name": "Ventana",
+    "quantity": "5",
+    "price": "25",
+    "image": "https://raw.githubusercontent.com/VannyLD/DomnakKlenStock/main/images/ven.jpg"
   }
 ]
