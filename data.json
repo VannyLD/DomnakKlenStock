@@ -1,5 +1,11 @@
 [
   {
+    "name": "Ventana",
+    "quantity": "5",
+    "price": "25",
+    "image": "https://raw.githubusercontent.com/VannyLD/DomnakKlenStock/main/images/ventana.jpg"
+  },
+  {
     "name": "9PM",
     "quantity": "1",
     "price": "35",
@@ -16,11 +22,5 @@
     "quantity": "0",
     "price": "35",
     "image": "https://raw.githubusercontent.com/VannyLD/DomnakKlenStock/main/images/IMG_0275.jpeg"
-  },
-  {
-    "name": "Ventana",
-    "quantity": "1",
-    "price": "30",
-    "image": "https://raw.githubusercontent.com/VannyLD/DomnakKlenStock/main/images/7ventana.jpg"
   }
 ]
